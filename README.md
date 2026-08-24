@@ -1,4 +1,4 @@
-# Yiğit — Kişisel Portföy
+# Yiğit Alemdar — Kişisel Portföy
 
 Bağımlılık gerektirmeyen, mobil uyumlu kişisel portföy sitesi.
 
